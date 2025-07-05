@@ -1,7 +1,7 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: Mohammed Abdul Farhan
+  description: It is a ansible role file, just i did for practice
+  company: Steincraft
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
